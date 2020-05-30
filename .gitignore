@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+data
+*.csv
+*.tsv
+*.zip
+*.7z
+*.gz
+*.png
+*.dot
+*.ckpt.*
+*.pyc
