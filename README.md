@@ -1,11 +1,6 @@
-# Kaggle
+# Data Science Competition Practice
 
-## Competitions
+## Kaggle
 
-## Exercises
+## Dacon
 
-# Dacon
-
-## Competitions
-
-## Exercises
